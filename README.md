@@ -1,4 +1,6 @@
-# CSF-TP4
+# CSF-TP4 - Parte 2
+
+Um PDF com uma cópia da lista de exercícios passada em sala de aula (Parte 1 desta atividade) também se encontra neste repositório.
 
 Neste exercício iremos calcular a perda no ar (Path Loss), potênica de transmissão e capacidade do canal LoRa.
 
@@ -12,10 +14,9 @@ As seguintes perguntas devem ser respondidas:
 
 3) Alterando os valores do parâmetro Spread Factor (SF), altera-se o RSSI no receptor? Caso haja uma alteração, explique como o parâmetro SF afeta os cálculos.
 
-4) Usando a SNR no receptor. Calcule a capacidade do canal para as Larguras de Banda 125, 250 e 500 kHz. 
+4) Usando a SNR no receptor. Calcule a capacidade do canal para as Larguras de Banda 125, 250 e 500 kHz.
 
 5) Alterar os parâmetros potência de transmissão e SF afetam o cálculo da capacidade do canal? Explique.
-
 
 ## Informações Úteis
 
